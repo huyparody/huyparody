@@ -29,7 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/huyparody"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huyparody" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyparody&show_icons=true&locale=en&layout=compact" alt="huyparody" /></p>
+<p><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyparody&show_icons=true&locale=en&layout=compact" alt="huyparody" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyparody&show_icons=true&locale=en" alt="huyparody" /></p>
 
