@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Lotus Social Network](https://lotus.vn/)
 
-- 📱 I'm used to cooperate with [BlurOS](https://github.com/BlurOS)
+- 📱 I'm Co-founder of [BlurOS](https://github.com/BlurOS)
 
 - 👨‍💻 All of my projects are available at [https://huyparody.github.io/](https://huyparody.github.io/)
 
