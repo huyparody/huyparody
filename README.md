@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyparody&label=Profile%20views&color=0e75b6&style=flat" alt="huyparody" /> </p>
 
 
-- 🔭 I’m currently working on [Lotus Social Network](https://lotus.vn/)
+- 🔭 I’m currently working at Teneocto Technologies https://teneocto.io/
 
 - 📱 I'm Co-founder of [BlurOS](https://github.com/BlurOS)
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://huyparody.medium.com/](https://huyparody.medium.com/)
 
-- 📫 How to reach me **huytrinhduc@vccorp.vn**
+- 📫 How to reach me **huytrinhduc@icloud.com** or **duchuy290898@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
