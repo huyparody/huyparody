@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://huyparody.medium.com/](https://huyparody.medium.com/)
 
-- 📫 How to reach me **huytrinhduc@icloud.com** or **trinhduchuy@protonmail.com**
+- 📫 How to reach me **trinhduchuy@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
