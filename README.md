@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyparody&label=Profile%20views&color=0e75b6&style=flat" alt="huyparody" /> </p>
 
 
-- 🔭 I’m currently working at [SETA International](https://seta-international.com/)
+- 🔭 I’m currently working at [SmartOSC](https://www.smartosc.com/)
 
 - 📱 I'm Co-founder of [BlurOS](https://github.com/BlurOS)
 
